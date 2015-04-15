@@ -208,6 +208,12 @@
             <artifactId>guacamole-ext</artifactId>
             <version>0.9.6</version>
         </dependency>
+        
+        <dependency>
+            <groupId>org.glyptodon.guacamole</groupId>
+            <artifactId>guacamole-auth-noauth</artifactId>
+            <version>0.9.6</version>
+        </dependency>
 
         <!-- Guacamole JavaScript API -->
         <dependency>
